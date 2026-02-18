@@ -1,0 +1,7 @@
+{
+  "name": "خدماتي ",
+  "description": "A community platform for Ramadan charity connecting donors with those in need for Iftar meals. Features real-time chat, location mapping, and meal requests.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
